@@ -10,7 +10,8 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <Registration/>
+      <Callback/>
+      <Social/>
     </div>
   );
 }
