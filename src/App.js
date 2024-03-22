@@ -10,8 +10,12 @@ import './App.css';
 function App() {
   return (
     <div className="App">
+<<<<<<< HEAD
       <Callback/>
       <Social/>
+=======
+      <Test/>
+>>>>>>> 5c7ae74622ae0bb05d2bb31642edae4aaa3964c1
     </div>
   );
 }
