@@ -9,6 +9,14 @@ export default function Social (){
     <li id="phone">+7 (999)999-99-99</li>
     <li id="geo">Moscow Ryzany</li>
     </ul>
+    <ul className="Social_list">
+    <li id="Wk"></li>
+    <li id="Tg"></li>
+    <li id="Whatsapp"></li>
+    </ul>
+
+
+    
    
     </>
     )

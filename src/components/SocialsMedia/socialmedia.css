@@ -1,11 +1,20 @@
 .Contact_list
 {
     width: 200px;
-    margin: 100px 33%;
     align-items: flex-start;
     display: flex;
     list-style: disc none inside;
     flex-direction: column;
+    
+}
+.Social_list
+{
+    padding: 0px 900px;
+    display: flex;
+    justify-content: flex-end;
+    width: 200px;
+    list-style: disc none inside;
+    flex-direction: row;
     
 }
 #mail{
@@ -17,4 +26,12 @@
 #geo{
     list-style-image: url(C:\Users\admin\Desktop\FrontEnd101\app\public\Images\geo.png); 
 }
-
+#Wk{
+    list-style-image: url(C:\Users\admin\Desktop\FrontEnd101\app\public\Images\Vector.png);   
+}
+#Tg{
+    list-style-image: url(C:\Users\admin\Desktop\FrontEnd101\app\public\Images\tg.png); 
+}
+#Whatsapp{
+    list-style-image: url(C:\Users\admin\Desktop\FrontEnd101\app\public\Images\whatsapp.png); 
+}
