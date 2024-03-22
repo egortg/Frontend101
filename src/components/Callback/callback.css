@@ -9,9 +9,9 @@ margin-left: auto;
 margin-right: auto;
 background-color:#FFFFFF;
 border-radius: 12px;
+max-width: 857px;
+width: 100%;
 padding: 60px;
-width: 595px;
-height: 350px;
 border: 3px solid #FFFFFF;
 }
 .Callback_list_items{
@@ -29,9 +29,8 @@ background-color: #fcfcfd;
 border: 1px solid #f1f1f3;
 border-radius: 6px;
 margin: 5px;
-padding: 15px 15px 15px 0px;
-width: 550px;
-height: 10px;
+padding: 20px;
+width: 100%;
 }
 label{
 text-align:start;
@@ -49,8 +48,8 @@ color: #262626;
     background-color: #00BC13;
     border-radius: 6px;
     padding: 14px 20px;
-    width: 150px;
-    height: 20px;
+    width: 118px;
+    height: 49px;
 }
 .Callback_button_block{
     justify-content: center;

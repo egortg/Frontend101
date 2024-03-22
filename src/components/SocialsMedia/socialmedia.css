@@ -1,6 +1,6 @@
 .Contact_list
 {
-    width: 200px;
+    width: 300px;
     align-items: flex-start;
     display: flex;
     list-style: disc none inside;
@@ -9,23 +9,17 @@
 }
 .Social_list
 {
+    width: 200px;
     display: flex;
-    justify-content: flex-end;
-    width: 200px;
     list-style: disc none inside;
     flex-direction: row;
-}
-.Social_list_head
-{
-    width: 200px;
-    list-style: disc none inside;
-    flex-direction: row;
-    
 }
 .Block{
-    margin: 0px 100px 300px;
+    padding: 200px;
+    width: 100%;
+    gap: 40%;
     display: flex;
-    justify-content: flex-end;
+    justify-content: center;
 }
 #mail{
     list-style-image: url(C:\Users\admin\Desktop\FrontEnd101\app\public\Images\Subtract.png);   
@@ -37,26 +31,29 @@
     list-style-image: url(C:\Users\admin\Desktop\FrontEnd101\app\public\Images\geo.png); 
 }
 #Wk{
-border: 1px solid #f1f1f3;
-border-radius: 6px;
-padding: 12px;
-width: 20px;
-height: 15px;
+
+    border: 1px solid #f1f1f3;
+    border-radius: 6px;
+    padding: 10px;
+    width: 44px;
+    height: 39px;
     list-style-image: url(C:\Users\admin\Desktop\FrontEnd101\app\public\Images\Vector.png);   
 }
 #Tg{
-border: 1px solid #f1f1f3;
-border-radius: 6px;
-padding: 12px;
-width: 20px;
-height: 15px;
+    
+    border: 1px solid #f1f1f3;
+    border-radius: 6px;
+    padding: 10px;
+    width: 44px;
+    height: 39px;
     list-style-image: url(C:\Users\admin\Desktop\FrontEnd101\app\public\Images\tg.png); 
 }
 #Whatsapp{
-border: 1px solid #f1f1f3;
-border-radius: 6px;
-padding: 12px;
-width: 20px;
-height: 15px;
+    
+    border: 1px solid #f1f1f3;
+    border-radius: 6px;
+    padding: 10px;
+    width: 44px;
+    height: 39px;
     list-style-image: url(C:\Users\admin\Desktop\FrontEnd101\app\public\Images\whatsapp.png); 
 }

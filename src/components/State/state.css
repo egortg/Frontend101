@@ -1,6 +1,17 @@
-
+.State_items_text{
+    padding:20px;
+    margin: 0 auto;
+    width: 1000px;
+    height: 792px;
+    justify-content: space-evenly;
+    display: flex;
+    flex-direction: column;
+}
 .State_items_header {
- text-align: center;
+    margin: 0 auto;
+    justify-content: center;
+    width: 1000px;
+    display: flex;
 }
 p{
     color: #59595A;
@@ -9,7 +20,6 @@ p{
 .State_items{
     background-color: #F5F5F5;
     text-indent: 25px;
-    margin: 15%;
     font-size: 16px;
 }
 .State_button_material{
@@ -25,11 +35,12 @@ p{
     min-height: 40px;
 }
 .State_buttons{
+margin: 0 auto;
+justify-content: end;
+width: 1000px;
+height: 792px;
 gap: 10px;
-margin-top: 40px;
-margin-left: 70%;
-align-content: right;
-display: inline-flex;
+display: flex;
 }
 .State_button_material:active {
     background-color: #dad7cf;

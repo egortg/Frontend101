@@ -11,7 +11,7 @@ background-color:#FFFFFF;
 border-radius: 12px;
 padding: 60px;
 width: 595px;
-height: 250px;
+height: 425px;
 border: 3px solid #FFFFFF;
 }
 .Autorization_list_items{
@@ -28,10 +28,10 @@ line-height: 125%;
 background-color: #fcfcfd;
 border: 1px solid #f1f1f3;
 border-radius: 6px;
-margin: 5px;
-padding: 15px 15px 15px 0px;
-width: 550px;
-height: 10px;
+padding: 20px;
+width: 100%;
+width: 475px;
+height: 60px;
 }
 label{
 text-align:start;
@@ -48,9 +48,9 @@ color: #262626;
     color: #fff;
     background-color: #00BC13;
     border-radius: 6px;
-    padding: 10px 20px;
-    width: 150px;
-    height: 20px;
+    padding: 14px 20px;
+    width: 118px;
+    height: 49px;
 }
 .button_Autorization_Block{
     display: flex;
@@ -58,7 +58,9 @@ color: #262626;
     padding: 40px;
 }
 .Autorization_head{
-    margin-top: 5%;
+    width: 595px;
+    height: 200px;
+    margin: 0 auto;
   display: flex;
   justify-content: center;
   align-items: center;
