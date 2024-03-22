@@ -9,7 +9,15 @@
 }
 .Social_list
 {
-    padding: 0px 900px;
+    display: flex;
+    justify-content: flex-end;
+    width: 200px;
+    list-style: disc none inside;
+    flex-direction: row;
+    
+}
+.Social_list_head
+{
     display: flex;
     justify-content: flex-end;
     width: 200px;
@@ -27,11 +35,26 @@
     list-style-image: url(C:\Users\admin\Desktop\FrontEnd101\app\public\Images\geo.png); 
 }
 #Wk{
+border: 1px solid #f1f1f3;
+border-radius: 6px;
+padding: 12px;
+width: 20px;
+height: 15px;
     list-style-image: url(C:\Users\admin\Desktop\FrontEnd101\app\public\Images\Vector.png);   
 }
 #Tg{
+border: 1px solid #f1f1f3;
+border-radius: 6px;
+padding: 12px;
+width: 20px;
+height: 15px;
     list-style-image: url(C:\Users\admin\Desktop\FrontEnd101\app\public\Images\tg.png); 
 }
 #Whatsapp{
+border: 1px solid #f1f1f3;
+border-radius: 6px;
+padding: 12px;
+width: 20px;
+height: 15px;
     list-style-image: url(C:\Users\admin\Desktop\FrontEnd101\app\public\Images\whatsapp.png); 
 }
