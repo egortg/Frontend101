@@ -1,0 +1,60 @@
+
+
+.Test_texts_words{
+    text-align: left;
+    background-color: #FFFFFF;
+    border: 1px;
+    border-radius: 10px;
+    width: 600px;
+    line-height: 88px
+    
+}
+.Test_head_header {
+    text-align: center;
+   }
+.Test_head_subheader{
+text-align: center;
+font-weight: 400;
+font-size: 16px;
+color: #59595a;
+}
+.Test_head{
+    margin-top: 10%;
+}
+.Test_texts{
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    
+}
+
+.Test_texts_words:active{
+    border: 1px solid #00bc13;
+}
+span{
+    padding: 20px  ;
+}
+.Test_button{
+border-radius: 6px;
+width: 108px;
+height: 45px;
+background-color: #00bc13;
+color: #FFFFFF;
+border-style: none;
+}                                              
+.Test_button:active{
+    transform: scale(0.98); 
+    box-shadow: 3px 2px 22px 1px rgba(0, 0, 0, 0.24); 
+}
+.Test_number_question{
+display: flex;
+justify-content: center;
+color: #59595a;
+}
+.Test_button_box{
+
+    display: flex;
+    justify-content: center;
+    padding: 40px;
+}
