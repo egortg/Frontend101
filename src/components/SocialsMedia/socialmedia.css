@@ -14,16 +14,18 @@
     width: 200px;
     list-style: disc none inside;
     flex-direction: row;
-    
 }
 .Social_list_head
 {
-    display: flex;
-    justify-content: flex-end;
     width: 200px;
     list-style: disc none inside;
     flex-direction: row;
     
+}
+.Block{
+    margin: 0px 100px 300px;
+    display: flex;
+    justify-content: flex-end;
 }
 #mail{
     list-style-image: url(C:\Users\admin\Desktop\FrontEnd101\app\public\Images\Subtract.png);   

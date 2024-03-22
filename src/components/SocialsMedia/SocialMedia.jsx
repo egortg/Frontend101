@@ -11,12 +11,13 @@ export default function Social (){
     <li id="geo">Moscow Ryzany</li>
     </ul>
     <h4 className="Social_list_head">Socials</h4>
+    <div className="Block">
     <ul className="Social_list">
     <li id="Wk"></li>
     <li id="Tg"></li>
     <li id="Whatsapp"></li>
     </ul>
-
+    </div>
 
     
    
